@@ -1,0 +1,13 @@
+testApp/modules/Mobile.class
+testApp/configuration/ScreenBase.class
+testApp/modules/ChromeTest.class
+testApp/modules/SafariTest.class
+testApp/supports/CommonFunctions.class
+testApp/modules/Shopping.class
+testApp/modules/DialTest.class
+testApp/modules/HybridAppTest.class
+testApp/configuration/Config.class
+testApp/modules/ContactTest.class
+testApp/modules/Main.class
+testApp/modules/ShoppingScreen.class
+testApp/modules/iOSNativeAppTest.class

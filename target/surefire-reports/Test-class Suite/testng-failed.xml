@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Test-class Suite]">
+  <test name="Run test with appium(failed)">
+    <classes>
+      <class name="testApp.modules.ContactTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="switchCalculator"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testApp.modules.ContactTest -->
+    </classes>
+  </test> <!-- Run test with appium(failed) -->
+</suite> <!-- Failed suite [Test-class Suite] -->

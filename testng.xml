@@ -1,0 +1,12 @@
+<suite name="Test-class Suite">
+    <test name="Run test with appium">
+        //run nhiu class
+        <packages>
+            <package name="testApp"/>
+        </packages>
+        <classes>
+            <class name="testApp.modules.ContactTest" />
+            <class name="testApp.modules.ContactTest" />//run nhiu class
+        </classes>
+    </test>
+</suite>
